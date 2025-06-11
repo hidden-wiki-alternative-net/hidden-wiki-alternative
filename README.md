@@ -84,3 +84,5 @@ Phishing and scams are risks.
 Exploring hidden wiki alternatives can expand your understanding of the dark web. By using reliable resources, and prioritizing security, you can browse safely. Always confirm addresses, practice encryption, and stay informed.
 
 Please contribute and add stars to this repo.
+
+Update:  11 June
