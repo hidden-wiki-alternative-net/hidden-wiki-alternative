@@ -91,4 +91,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Updated contributor profile links
+
+
+Update: Repaired broken links in installation guide
