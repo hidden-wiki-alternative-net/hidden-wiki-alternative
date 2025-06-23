@@ -93,4 +93,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Repaired broken links in installation guide
+
+
+Update:  Monday 23 June 2025 Link is now clickable and functioning
