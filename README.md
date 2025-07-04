@@ -99,4 +99,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  06/26/2025 08-42-49
+
+
+Update: url is responsive
