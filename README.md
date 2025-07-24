@@ -109,4 +109,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Link is now responsive and functioning
+
+
+Update:  24.07.2025 11:45 Widget links
